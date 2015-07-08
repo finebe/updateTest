@@ -1,0 +1,1 @@
+g_assetPatchVersion=1
